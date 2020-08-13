@@ -1,0 +1,9 @@
+add student (id,name, father name, roll number,)
+view students
+add book (book id, name, author, publisher, edition,quantity)
+remove book
+issue book (student id, book id,quantity)
+issued book list 
+view availabe book
+search book by id
+logout
